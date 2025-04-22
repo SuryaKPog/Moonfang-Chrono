@@ -17,7 +17,6 @@ class WolfClock:
         self.corner_radius = 20
         self.border_width = 2
         
-        # Font sizes - ADJUST THESE VALUES AS NEEDED
         self.time_font_size = 12  # Change this number
         self.date_font_size = 7  # Change this number
         

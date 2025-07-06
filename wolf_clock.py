@@ -4,7 +4,7 @@ from PIL import Image, ImageTk, ImageDraw
 import time
 import datetime
 import os
-\
+
 class WolfClock:
     def __init__(self):
         self.root = tk.Tk()
